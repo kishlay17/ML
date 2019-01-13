@@ -1,0 +1,163 @@
+WEEK_1:
+
+Machine Learning
+  Supervised Learning
+  Unsupervised Learning
+
+Supervised Learning:
+ML:Linear Regression with One Variable
+Model Representation
+The Hypothesis Function
+Cost Function
+
+ML:Gradient Descent
+Gradient Descent for Linear Regression
+
+ML:Linear Algebra Review
+Matrices and Vectors
+Addition and Scalar Multiplication
+Matrix-Vector Multiplication
+Matrix-Matrix Multiplication
+Inverse and Transpose
+
+
+WEEK_2:
+
+ML:Linear Regression with Multiple Variables
+Cost function
+Gradient Descent for Multiple Variables
+Matrix Notation
+
+Feature Normalization
+Gradient Descent Tips
+Features and Polynomial Regression
+Polynomial Regression
+Normal Equation
+Normal Equation Noninvertibility
+
+
+WEEk_3:
+
+ML:Logistic Regression
+Binary Classification
+Decision Boundary
+Cost Function
+Simplified Cost Function and Gradient Descent
+Advanced Optimization
+Multiclass Classification: One-vs-all
+
+ML:Regularization
+Cost Function
+Regularized Linear Regression
+Normal Equation
+Regularized Logistic Regression
+
+
+WEEK_4:
+
+ML:Neural Networks: Representation
+Non-linear Hypotheses
+Neurons and the Brain
+
+Model Representation I
+Model Representation II
+Examples and Intuitions I
+Examples and Intuitions II
+Multiclass Classification
+
+
+WEEK_5:
+
+ML:Neural Networks: Learning
+Cost Function
+Backpropagation Algorithm
+Backpropagation Intuition
+Implementation Note: Unrolling Parameters
+Gradient Checking
+Random Initialization
+Putting it Together
+Explanation of Derivatives Used in Backpropagation
+
+
+WEEK_6:
+
+ML:Advice for Applying Machine Learning
+Deciding What to Try Next
+Evaluating a Hypothesis
+Model Selection and Train/Validation/Test Sets
+
+Without the Validation Set (note: this is a bad method - do not use it)
+Use of the CV set
+With the Validation Set (note: this method presumes we do not also use the CV set for regularization)
+
+Diagnosing Bias vs. Variance
+Regularization and Bias/Variance
+Learning Curves
+
+Deciding What to Do Next Revisited
+Diagnosing Neural Networks
+Model Selection:
+
+ML:Machine Learning System Design
+Prioritizing What to Work On
+Error Analysis
+Error Metrics for Skewed Classes
+Trading Off Precision and Recall
+Data for Machine Learning
+
+WEEK_7:
+
+Support Vector Machine (SVM) 
+Large Margin Intuition
+Mathematics Behind Large Margin Classification (Optional)
+
+Kernels I
+Kernels II
+Choosing SVM Parameters
+Using An SVM
+Multi-class Classification
+Logistic Regression vs. SVMs
+
+
+WEEK_8:
+
+ML:Clustering
+Unsupervised Learning: Introduction
+K-Means Algorithm
+Optimization Objective
+Random Initialization
+Choosing the Number of Clusters
+Bonus: Discussion of the drawbacks of K-Means
+
+ML:Dimensionality Reduction
+Motivation I: Data Compression
+Motivation II: Visualization
+
+Principal Component Analysis Problem Formulation
+
+Principal Component Analysis Algorithm
+
+Reconstruction from Compressed Representation
+Choosing the Number of Principal Components
+Advice for Applying PCA
+
+
+WEEK_9:
+
+ML:Anomaly Detection
+Problem Motivation
+Gaussian Distribution
+Developing and Evaluating an Anomaly Detection System
+Anomaly Detection vs. Supervised Learning
+Choosing What Features to Use
+
+ML:Recommender Systems
+Problem Formulation
+
+Content Based Recommendations
+Collaborative Filtering
+Collaborative Filtering Algorithm
+Vectorization: Low Rank Matrix Factorization
+Implementation Detail: Mean Normalization
+
+
